@@ -28,4 +28,4 @@ Our ecommerce application is designed to provide users with a seamless shopping 
 
 These technologies form the core components of our full-stack ecommerce application, enabling dynamic user interfaces, efficient data management, and seamless user interactions.
 
-live working video link : https://youtu.be/qfgwMfR0jIo
+walk through link : https://youtu.be/qfgwMfR0jIo
