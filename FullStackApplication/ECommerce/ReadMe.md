@@ -27,3 +27,5 @@ Our ecommerce application is designed to provide users with a seamless shopping 
 6. **Servlet**: Handling HTTP requests and responses.
 
 These technologies form the core components of our full-stack ecommerce application, enabling dynamic user interfaces, efficient data management, and seamless user interactions.
+
+live working video link : https://youtu.be/qfgwMfR0jIo
